@@ -22,7 +22,7 @@ Performance was evaluated based on:
 - Observed failure modes
 
 ## Key Findings
-The experiments demonstrated strong relationships between photo-initiator concentration, resin penetration depth, and achievable part dimensions. While higher initiator concentrations reduced required exposure time, they introduced accuracy tradeoffs, highlighting the importance of balanced parameter optimization.
+The experiments and modeling established clear relationships between resin penetration depth and achievable part dimensions in a volumetric additive manufacturing process. Experimental measurements supported the analytical model, demonstrating how material properties and system geometry constrain curing behavior and feasible object size. These findings provide practical insight into how resin characteristics influence process limits and design considerations for volumetric 3D printing systems.
 
 ## My Contributions
 - Designed and executed experimental studies
