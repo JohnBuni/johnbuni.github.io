@@ -1,7 +1,7 @@
 # Volumetric Additive Manufacturing Research
 
 ## Overview
-This project documents my undergraduate research in **Volumetric Additive Manufacturing (VAM)**, a novel 3D printing process capable of fabricating entire parts simultaneously through tomographic light projection.
+This project briefly describes my undergraduate research in **Volumetric Additive Manufacturing (VAM)**, a novel 3D printing process capable of fabricating entire parts simultaneously through tomographic light projection.
 
 ## Objective
 The goal of this research was to understand and optimize how resin properties and process parameters influence curing behavior, dimensional accuracy, and achievable part size in a tomographic VAM system.
