@@ -1,6 +1,6 @@
 # John Buni
 
-Mechatronics Engineer with experience in additive manufacturing, experimental optimization, and materials-focused research.
+Mechatronics Engineering graduate with experience in additive manufacturing, experimental optimization, and materials-focused research.
 
 ## Portfolio
 - [Volumetric Additive Manufacturing Research](vam-research.md)
