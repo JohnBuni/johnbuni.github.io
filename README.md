@@ -1,4 +1,3 @@
-# johnbuni.github.io
 # John Buni
 
 Mechatronics Engineer with experience in additive manufacturing, experimental optimization, and materials-focused research.
