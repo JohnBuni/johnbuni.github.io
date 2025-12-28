@@ -30,7 +30,7 @@ Key variables investigated included:
 Performance was evaluated based on:
 - Dimensional accuracy
 - Cure completeness
-- Print time
+- Curing time
 - Observed failure modes
 
 ## Key Findings
