@@ -12,14 +12,13 @@ Experiments were conducted using a projector-based volumetric additive manufactu
 <p align="center">
   <img src="images/experimental_setup.png" alt="Experimental setup" width="600"/>
   <br>
-  <em>Figure 1: Overview of the projector-based volumetric additive manufacturing experimental setup. Adapted from: Buni, J., et al., MDPI Additive Manufacturing, 2024.</em>
+  <em>Figure 1: Overview of the projector-based volumetric additive manufacturing experimental setup.</em>
 </p>
 
 <p align="center">
   <img src="images/experiment_photo.jpg" alt="Experimental photo" width="600"/>
   <br>
-  <em>Figure 2: Formation of an object in a representative VAM test trial. Adapted from: Buni, J., et al., MDPI Additive Manufacturing, 2024.</em>
-</p>
+  <em>Figure 2: Formation of an object in a representative VAM test trial.</em>
 
 Key variables investigated included:
 - Photo-initiator concentration (wt%)
