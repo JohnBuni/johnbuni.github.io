@@ -49,4 +49,4 @@ The experiments and modeling established clear relationships between resin penet
 🔗 https://www.mdpi.com/2504-4494/9/6/178
 
 ## Relevance
-This work strengthened my ability to perform root-cause analysis, design efficient experiments, and optimize complex additive manufacturing processes—skills directly applicable to improving print performance, reliability, and accuracy in industrial 3D printing systems.
+This work strengthened my ability to perform root-cause analysis, design efficient experiments, and optimize complex additive manufacturing processes. These skills are directly applicable to improving print performance, reliability, and accuracy in industrial 3D printing systems.
