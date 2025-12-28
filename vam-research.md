@@ -7,7 +7,7 @@ This project documents my undergraduate research in **Volumetric Additive Manufa
 The goal of this research was to understand and optimize how resin properties and process parameters influence curing behavior, dimensional accuracy, and achievable part size in a tomographic VAM system.
 
 ## Experimental Approach
-Experiments were conducted using a projector-based volumetric additive manufacturing setup with SLA-type photopolymer resins. The process involves projecting a series of 2D images, derived from slicing a 3D CAD model, into a resin volume such that the object cures simultaneously in three dimensions. The figures below provide an overview of the experimental setup and the formation of an object during a representative test trial.
+Experiments were conducted using a projector-based volumetric additive manufacturing setup with SLA-type photopolymer resins. The process involves projecting a series of 2D images, derived from slicing a 3D CAD model, into a resin volume such that the object cures simultaneously in three dimensions. Figures 1 and 2 depict the experimental setup and the formation of an object during a representative test trial, respectively.
 
 <p align="center">
   <img src="images/experimental_setup.png" alt="Experimental setup" width="600"/>
