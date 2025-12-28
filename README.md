@@ -4,7 +4,7 @@
 Mechatronics Engineer with experience in additive manufacturing, experimental optimization, and materials-focused research.
 
 ## Portfolio
-- [Volumetric Additive Manufacturing Research](vam-research)
+- [Volumetric Additive Manufacturing Research](vam-research.md)
 
 ## Contact
 - GitHub: https://github.com/johnbuni
