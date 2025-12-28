@@ -1,0 +1,40 @@
+# Volumetric Additive Manufacturing Research
+
+## Overview
+This project documents my undergraduate research in **Volumetric Additive Manufacturing (VAM)**, a novel 3D printing process capable of fabricating entire parts simultaneously through tomographic light projection.
+
+## Objective
+The goal of this research was to understand and optimize how **resin properties and process parameters** influence curing behavior, dimensional accuracy, and achievable part size in a tomographic VAM system.
+
+## Experimental Approach
+Experiments were conducted using a projector-based volumetric curing setup with SLA-type photopolymer resins.
+
+Key variables investigated included:
+- Photo-initiator concentration (wt%)
+- Resin mixing time prior to exposure
+- Thermal conditions during resin preparation
+- Exposure parameters and part geometry
+
+Performance was evaluated based on:
+- Dimensional accuracy
+- Cure completeness
+- Print time
+- Observed failure modes
+
+## Key Findings
+The experiments demonstrated strong relationships between photo-initiator concentration, resin penetration depth, and achievable part dimensions. While higher initiator concentrations reduced required exposure time, they introduced accuracy tradeoffs, highlighting the importance of balanced parameter optimization.
+
+## My Contributions
+- Designed and executed experimental studies
+- Prepared and characterized photopolymer resins
+- Analyzed experimental data and trends
+- Co-authored the final peer-reviewed publication
+
+## Publication
+**Buni, J.**, et al.  
+*Computed Tomography-Based Volumetric Additive Manufacturing: Development of a Model Based on Resin Properties and Part Size Interrelationship—Part I*  
+**MDPI Additive Manufacturing**  
+🔗 https://www.mdpi.com/2504-4494/9/6/178
+
+## Relevance
+This work strengthened my ability to perform **root-cause analysis**, design efficient experiments, and optimize complex additive manufacturing processes—skills directly applicable to improving print performance, reliability, and accuracy in industrial 3D printing systems.
