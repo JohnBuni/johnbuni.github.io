@@ -7,4 +7,4 @@ Mechatronics Engineer with experience in additive manufacturing, experimental op
 
 ## Contact
 - GitHub: https://github.com/johnbuni
-- LinkedIn: [your-link-here]
+- LinkedIn: https://www.linkedin.com/in/-johnbuni
