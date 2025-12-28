@@ -1,2 +1,11 @@
 # johnbuni.github.io
-This is my portfolio website. Here you will be able to find a brief description of my significant past projects. 
+# John Buni
+
+Mechatronics Engineer with experience in additive manufacturing, experimental optimization, and materials-focused research.
+
+## Portfolio
+- [Volumetric Additive Manufacturing Research](vam-research)
+
+## Contact
+- GitHub: https://github.com/johnbuni
+- LinkedIn: [your-link-here]
