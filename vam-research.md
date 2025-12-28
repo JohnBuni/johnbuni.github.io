@@ -18,7 +18,8 @@ Experiments were conducted using a projector-based volumetric additive manufactu
 <p align="center">
   <img src="images/experiment_photo.jpg" alt="Experimental photo" width="600"/>
   <br>
-  <em>Figure 2: Formation of an object in a representative VAM test trial.</em>
+  <em>Figure 2: Formation of an object in a representative VAM test trial.
+  (a) image projected on rotating vial, (b) resin vial inside mineral oil, (c) resin vial inside mineral oil at time of observable initiation</em>
 
 Key variables investigated included:
 - Photo-initiator concentration (wt%)
