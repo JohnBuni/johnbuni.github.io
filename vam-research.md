@@ -9,8 +9,6 @@ The goal of this research was to understand and optimize how resin properties an
 ## Experimental Approach
 Experiments were conducted using a projector-based volumetric additive manufacturing setup with SLA-type photopolymer resins. The process involves projecting a series of 2D images, derived from slicing a 3D CAD model, into a resin volume such that the object cures simultaneously in three dimensions.
 
-### Figures
-
 <p align="center">
   <img src="images/experimental_setup.png" alt="Experimental setup" width="600">
 </p>
