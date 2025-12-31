@@ -7,11 +7,21 @@ This project briefly describes my undergraduate research in **Volumetric Additiv
 The goal of this research was to understand and optimize how resin properties and process parameters influence curing behavior, dimensional accuracy, and achievable part size in a tomographic VAM system.
 
 ## Experimental Approach
-Experiments were conducted using a projector-based volumetric additive manufacturing setup with SLA-type photopolymer resins. The process involves projecting a series of 2D images, derived from slicing a 3D CAD model, into a resin volume such that the object cures simultaneously in three dimensions. Figures 1 and 2 depict the experimental setup and the formation of an object during a representative test trial, respectively.
+Experiments were conducted using a projector-based volumetric additive manufacturing setup with SLA-type photopolymer resins. The process involves projecting a series of 2D images, derived from slicing a 3D CAD model, into a resin volume such that the object cures simultaneously in three dimensions.
 
-![Figure 1: Overview of the projector-based volumetric additive manufacturing experimental setup](images/experimental_setup.png)
+### Figures
 
-![Figure 2: Formation of an object in a representative VAM test trial. (a) image projected on rotating vial, (b) resin vial inside mineral oil, (c) resin vial inside mineral oil at time of observable initiation](images/experiment_photo.jpg)
+<p align="center">
+  <img src="images/experimental_setup.png" alt="Experimental setup" width="600">
+</p>
+
+*Figure 1: Overview of the projector-based volumetric additive manufacturing experimental setup.*
+
+<p align="center">
+  <img src="images/experiment_photo.jpg" alt="Experimental photo" width="600">
+</p>
+
+*Figure 2: Formation of an object in a representative VAM test trial. (a) Image projected on rotating vial, (b) resin vial inside mineral oil, (c) resin vial inside mineral oil at time of observable initiation.*
 
 ### Key Variables Investigated
 - Photo-initiator concentration (wt%)
